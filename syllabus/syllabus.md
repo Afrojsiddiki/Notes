@@ -105,17 +105,19 @@ etc
 **13. Layouts**
 **14. Animations**
 
-# JAVASCRIPT [ Programming language ]
+# Programming using Javascript
 
 **Note taking**
 **File management using terminal**
 **Git & Gitlab**
 
-**1. Introduction to programming using JAVASCRIPT**
-**2. Variables**
-**3. Datatypes**
-**4. Loops**
-**5. Functions**
-**6. DOM Manupulation**
-**7. Events and Events listeners**
-**8. Third-Party Libraries and Packages**
+- Features of any programming langauge
+  - Variables
+  - Datatypes
+  - Conditional statements
+  - loop/iteration
+  - function
+- Language specific programming features
+  - Introduction to Javascript
+  - DOM Manupulation
+  - Events and Events listeners

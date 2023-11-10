@@ -5,3 +5,6 @@
 ` </div> = closing tag`
 `class,id,etc = attribute`
 `=naming,number : attribute value`
+`<script src="index.js"></script>=connect js
+`
+
