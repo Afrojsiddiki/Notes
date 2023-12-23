@@ -22,6 +22,14 @@ const lastArrayItem = bikes[lastIndex];
 console.log(lastArrayItem); // result = pulsar
 ```
 
+- functions of array
+  `array.push()` = to add new item in array ;
+  `array.length` = to find the length in array ;
+  `array.pop()` = remove last item in array;
+  `array.shift()` = remove first item in array ;
+  `array.unshit()` = add a new item in the starting in array ;
+  `array.concat()`= to add more item or two items in a single array ;``
+
 - loop-operation
 
 ```js
@@ -68,5 +76,3 @@ for (let i = 0; i < description.length; i++) {
   console.log("position", words);
 }
 ```
-
-//result
