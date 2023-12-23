@@ -1,9 +1,11 @@
+````js
 **1. Variables (var, let, const) 2. Data Types (string, number, boolean, null, undefined, array, object)
 Two Types
 -- 1. Primitive data types (unmuatable)
 eg: boolean, number, string, null, undefined
 -- 4. Complex data types (mutable) - eg: - array, object
-let name = "Firoj"**
+let name = "Firoj"** ```
+
 
 ```js
  - loop
@@ -20,7 +22,7 @@ const mobiles = ["iphone", "android"];
  for(let i = 0; i < bikes.length; i++) {
    console.log(bikes[i])
 }
-```
+````
 
 ```js
 -array(examples);
