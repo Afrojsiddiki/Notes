@@ -1,5 +1,6 @@
 #Number datatype
 
+- [**0 is false , 1 to infinity is truthy**]
 - it is a type of data type which can store any numberic data .
 
   - it is created by using following ways :

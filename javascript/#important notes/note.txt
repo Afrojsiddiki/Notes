@@ -1,0 +1,6 @@
+1. 
+
+
+----    if(){
+console.log("is truthy value");	
+}

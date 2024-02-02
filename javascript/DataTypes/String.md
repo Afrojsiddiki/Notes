@@ -1,5 +1,7 @@
 # String
 
+-[**Emptystring is falsy , other strings are truthy**]
+
 - It is a data type which can have any character of keyboard like alphabets, numbers or whatever you can type inside String literal "".
 - It is created using in the following ways:
 

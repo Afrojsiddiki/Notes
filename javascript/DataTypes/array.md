@@ -1,5 +1,6 @@
 # Array
 
+- [ **All types array store truthy value** ]
 - It is a type of data type which can store any types of key charaters in []
 
   ```js
@@ -23,7 +24,7 @@ console.log(lastArrayItem); // result = pulsar
 ```
 
 - functions of array
-  `array.push()` = to add new item in array ;
+  `array.push()` = to add new item in the last of an array ;
   `array.length` = to find the length in array ;
   `array.pop()` = remove last item in array;
   `array.shift()` = remove first item in array ;

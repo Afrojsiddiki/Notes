@@ -1,5 +1,7 @@
 # Boolean
 
+- [ **true is truthy & false is falsy**]
+
 - It is one of the types of datatypes .
 - it can have the following values/data :
   - true
