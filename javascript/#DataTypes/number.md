@@ -16,14 +16,39 @@
   console.log(sum); // result 160
   ```
 
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
+  ##CRUD
+
+```js
+//#CREATING
+
+var numberArray = [1, 2, 3, 4, 5];
+
+//READING
+console.log("printing numberArray = ", numberArray); //result [1, 2, 3, 4, 5]
+console.log(" length of numberArray = ", numberArray.length); //result 5
+console.log("second number of numberArray = ", numberArray[1]); // result 2
+
+//#UPDATE
+//changing third number of the array;
+var numberString = numberArray.toString();
+console.log("converted array to string", numberString);
+var newNumberString = numberString.replace("3", "9");
+console.log("changing number of string", newNumberString);
+var numberArray = newNumberString.split(","); //changed string to an array
+console.log(numberArray);
+
+//adding a new number to the last of the array
+numberArray.push("6");
+console.log(numberArray);
+
+//#DELETING
+
+//deleting first number of an array
+numberArray.shift();
+numberArray.unshift(); //to return back the first deleted item
+console.log(numberArray);
+
+// deleting last number of an array
+numberArray.pop();
+console.log(numberArray);
+```

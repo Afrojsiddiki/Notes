@@ -43,6 +43,28 @@
   - It is needed to whenever and wherever `conditional expression` is needed in the program.
 - The output of conditional expression is always have to be either `truthy` or `falsy` in order for the program to continue it's flow of execution of code.
 
+##CRUD
+
+```js
+//CREATING A BOOLEAN DATATYPES :
+const x = 0;
+let sn = 1;
+
+//READ
+console.log(x);
+console.log(sn);
+if (sn > x) {
+  console.log("sn is greater than x");
+}
+
+//UPDATE
+sn = 2;
+// console.log(sn);
+
+sn = null;
+console.log(sn);
+```
+
 ## Conditional Statement
 
 ```js
@@ -62,5 +84,6 @@ if (conditionalExperession) {
 // for (initialization; conditionalExpression; increment/decrement)
 for (let i = 0; i < 10; i++) {
   // to do
+  console.log(i); //to print 1 to 9
 }
 ```
